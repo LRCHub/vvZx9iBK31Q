@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Crazy",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-25T10:07:18.703927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Angels",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_Crazy_Angels_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She Drives Me Crazy - Remastered",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/02_She_Drives_Me_Crazy_-_Remastered_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Crazy_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/04_Crazy_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Crazy_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/06_Crazy_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/07_Crazy_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/08_Crazy_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/09_Crazy_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy Arms",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/10_Crazy_Arms_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy For Your Love",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/11_Crazy_For_Your_Love_Exile.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Girl - Single Version",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/12_Crazy_Girl_-_Single_Version_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy Girl (Single Version)",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/13_Crazy_Girl_(Single_Version)_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/14_Crazy_Little_Thing_Called_Love_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_三浦_大知.txt"
+    }
+  ]
+}
